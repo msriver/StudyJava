@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContextState>
+<org.eclipse.mylyn.context.ui.editors>
+<MonitoredWindowOpenEditors class="org.eclipse.ui.internal.WorkbenchWindow" isActive="true" isLaunching="true" number="0">
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="RectApp.java" partName="RectApp.java" title="RectApp.java" tooltip="HelloWorld/src/RectApp.java">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/HelloWorld/src/RectApp.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="482" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="BookArray.java" partName="BookArray.java" title="BookArray.java" tooltip="HelloWorld/src/BookArray.java">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/HelloWorld/src/BookArray.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="125" selectionTopPixel="49"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="CircleArray.java" partName="CircleArray.java" title="CircleArray.java" tooltip="HelloWorld/src/CircleArray.java">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/HelloWorld/src/CircleArray.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="320" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="Human.java" partName="Human.java" title="Human.java" tooltip="Human/src/Human.java">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Human/src/Human.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="29" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.jdt.ui.CompilationUnitEditor" name="ArrayParameterEx.java" partName="ArrayParameterEx.java" title="ArrayParameterEx.java" tooltip="ClassExample/src/ArrayParameterEx.java">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/ClassExample/src/ArrayParameterEx.java"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="3" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.mylyn.tasks.ui.editors.task" name="복습" partName="복습" title="복습" tooltip="복습">
+<input factoryID="org.eclipse.mylyn.tasks.ui.elementFactories.task.editor" taskHandle="local-1"/>
+</editor>
+</MonitoredWindowOpenEditors>
+</org.eclipse.mylyn.context.ui.editors>
+</ContextState>

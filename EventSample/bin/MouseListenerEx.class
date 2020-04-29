@@ -1,0 +1,22 @@
+Êþº¾   4 R  MouseListenerEx  javax/swing/JFrame la Ljavax/swing/JLabel; <init> ()V Code
+      javax/swing/JLabel  Hello
+     (Ljava/lang/String;)V	      Mouse event ?°ìŠµ
+     setTitle
+     setDefaultCloseOperation (I)V
+     ! getContentPane ()Ljava/awt/Container; # MouseListenerEx$MyMouseListener
+ " %  & (LMouseListenerEx;)V
+ ( * ) java/awt/Container + , addMouseListener !(Ljava/awt/event/MouseListener;)V
+ ( . / 0 	setLayout (Ljava/awt/LayoutManager;)V
+  2 3 4 setSize (II)V
+  6 7 4 setLocation
+ ( 9 : ; add *(Ljava/awt/Component;)Ljava/awt/Component;
+  2
+  > ? @ 
+setVisible (Z)V LineNumberTable LocalVariableTable this LMouseListenerEx; c Ljava/awt/Container; main ([Ljava/lang/String;)V
+   args [Ljava/lang/String; access$0 '(LMouseListenerEx;)Ljavax/swing/JLabel; 
+SourceFile MouseListenerEx.java InnerClasses MyMouseListener !                	   ?     a*? 
+*? Y? ? *? *? *? L+? "Y*? $? '+? -*? 2? 1*? ? 5+*? ? 8W* ? ú¶ <*? =?    A   6      
+       !  -  2  =  H  Q  [  `  B       a C D   ! @ E F  	 G H  	   5     ? ? I?    A   
+    C  D B        J K   L M  	   %     *? ?    A       
+ B       N    O P   
+  "  Q  
